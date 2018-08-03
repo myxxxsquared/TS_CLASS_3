@@ -1,0 +1,9 @@
+
+These data files should be put here to run the program
+
+sales_train.csv
+test.csv
+sample_submission.csv
+items.csv
+item_categories.csv
+shops.csv
